@@ -1,0 +1,48 @@
+/* body{
+    background-image: url('images/pexels-erik-mclean-12820773.jpg');
+} */
+h1{
+    margin-left: 60px;
+}
+
+#container1{
+/* margin-left: 450px; */
+}
+header{
+    font-size: 30px;
+}
+input{
+    width: 550px !important;
+    /* transform: translateX(-60px); */
+margin-left: 450px !important;
+    border-radius: 10px !important;
+text-align: center;
+}
+
+#bt{
+    width: 550px !important; 
+    /* transform: translateX(-80px); */
+    border-radius: 10px;
+margin-left: 450px !important;
+}
+#noitems{
+    width: 550px;
+    background-color: pink;
+    color: bisque;
+    font-weight: bolder;
+border-radius: 10px;
+margin-left: 450px !important;
+text-align: center;
+}
+#show{
+    color: red !important;
+    font-weight: bolder;
+    /* display: flex;
+    flex-direction: row;
+    row-gap: 50px !important;
+     */
+}
+#row{
+    display: none;
+    margin-top: 10px;
+}
